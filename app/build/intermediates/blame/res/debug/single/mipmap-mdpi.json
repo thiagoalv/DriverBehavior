@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/mipmap-mdpi/carsign.png",
         "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/mipmap-mdpi/carsign.png"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/mipmap-mdpi/carsign.png",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/mipmap-mdpi/carsign.png"
     },
     {
         "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",

@@ -1,7 +1,27 @@
 [
     {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/right_lane_change.mp3",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/raw/right_lane_change.mp3"
+    },
+    {
         "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/warning_aggressive_right_lane_change.mp3",
         "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/raw/warning_aggressive_right_lane_change.mp3"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/warning_aggressive_left_lane_change.mp3",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/raw/warning_aggressive_left_lane_change.mp3"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/left_turn.mp3",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/raw/left_turn.mp3"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/warning_aggressive_acceleration.mp3",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/raw/warning_aggressive_acceleration.mp3"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/right_turn.mp3",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/raw/right_turn.mp3"
     },
     {
         "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/warning_aggressive_left_turn.mp3",
@@ -20,6 +40,10 @@
         "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/raw/warning_you_are_driving_too_fast.mp3"
     },
     {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/left_lane_change.mp3",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/raw/left_lane_change.mp3"
+    },
+    {
         "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/left_turn.mp3",
         "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/raw/left_turn.mp3"
     },
@@ -28,8 +52,28 @@
         "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/raw/right_lane_change.mp3"
     },
     {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/warning_aggressive_right_turn.mp3",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/raw/warning_aggressive_right_turn.mp3"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/warning_aggressive_left_turn.mp3",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/raw/warning_aggressive_left_turn.mp3"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/warning_aggressive_right_lane_change.mp3",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/raw/warning_aggressive_right_lane_change.mp3"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/warning_sudden_break.mp3",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/raw/warning_sudden_break.mp3"
+    },
+    {
         "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/warning_aggressive_left_lane_change.mp3",
         "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/raw/warning_aggressive_left_lane_change.mp3"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/warning_you_are_driving_too_fast.mp3",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/raw/warning_you_are_driving_too_fast.mp3"
     },
     {
         "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/raw/warning_sudden_break.mp3",

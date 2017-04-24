@@ -8,12 +8,36 @@
         "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/drawable-hdpi/apptheme_btn_default_disabled_focused_holo_light.9.png"
     },
     {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_info_black_24dp.png",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/drawable-hdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-hdpi/apptheme_btn_default_pressed_holo_light.9.png",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/drawable-hdpi/apptheme_btn_default_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-hdpi/apptheme_btn_default_disabled_focused_holo_light.9.png",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/drawable-hdpi/apptheme_btn_default_disabled_focused_holo_light.9.png"
+    },
+    {
         "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-hdpi/apptheme_btn_default_pressed_holo_light.9.png",
         "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/drawable-hdpi/apptheme_btn_default_pressed_holo_light.9.png"
     },
     {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-hdpi/apptheme_btn_default_normal_holo_light.9.png",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/drawable-hdpi/apptheme_btn_default_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_notifications_black_24dp.png",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/drawable-hdpi/ic_notifications_black_24dp.png"
+    },
+    {
         "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-hdpi/apptheme_btn_default_disabled_holo_light.9.png",
         "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/drawable-hdpi/apptheme_btn_default_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-hdpi/apptheme_btn_default_disabled_holo_light.9.png",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/drawable-hdpi/apptheme_btn_default_disabled_holo_light.9.png"
     },
     {
         "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-hdpi/apptheme_btn_default_focused_holo_light.9.png",
@@ -30,5 +54,13 @@
     {
         "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-hdpi/apptheme_btn_default_normal_holo_light.9.png",
         "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/drawable-hdpi/apptheme_btn_default_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_sync_black_24dp.png",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/drawable-hdpi/ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-hdpi/apptheme_btn_default_focused_holo_light.9.png",
+        "source": "/Users/thiagosalvadori/Documents/UFPR/TG/TG 2/Android Project/DriverBehavior-v.1.2/app/src/main/res/drawable-hdpi/apptheme_btn_default_focused_holo_light.9.png"
     }
 ]
