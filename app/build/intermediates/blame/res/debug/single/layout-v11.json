@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

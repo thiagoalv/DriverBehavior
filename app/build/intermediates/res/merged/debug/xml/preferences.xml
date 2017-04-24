@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="orientation"
+        android:title="Phone Orientation"
+        android:entries="@array/orientation"
+        android:summary="%s"
+        android:entryValues="@array/orientationValues"
+        android:defaultValue="1"/>
+
+    <ListPreference
+        android:key="record"
+        android:title="Recording Type"
+        android:entries="@array/record"
+        android:summary="%s"
+        android:entryValues="@array/recordValues"
+        android:defaultValue="1"/>
+
+</PreferenceScreen>

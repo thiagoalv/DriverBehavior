@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-v21/ic_sync_black_24dp.xml",
+        "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/drawable-v21/ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-v21/ic_notifications_black_24dp.xml",
+        "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/drawable-v21/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-v21/ic_info_black_24dp.xml",
+        "source": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/res/drawable-v21/ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

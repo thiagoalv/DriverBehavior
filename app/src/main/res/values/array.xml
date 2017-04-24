@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="orientation">
+        <item>Laying Down</item>
+        <item>Standing up</item>
+    </string-array>
+
+    <string-array name="orientationValues">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="record">
+        <item>Trip</item>
+        <item>Maneuver</item>
+    </string-array>
+
+    <string-array name="recordValues">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    
+</resources>

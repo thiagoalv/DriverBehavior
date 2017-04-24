@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:id="@+id/chart"
+        android:orientation="horizontal"
+        android:gravity="top"
+        android:layout_weight="12">
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:orientation="horizontal"
+        android:gravity="bottom"
+        android:layout_weight="1"
+        android:layout_margin="1dp">
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/xAxis"
+                android:text="X Axis"
+                android:onClick="setAxis"
+                android:background="@drawable/apptheme_btn_default_holo_light"
+                android:checked="true"/>
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/yAxis"
+                android:text="Y Axis"
+                android:onClick="setAxis"
+                android:background="@drawable/apptheme_btn_default_holo_light"/>
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/zAxis"
+                android:text="Z Axis"
+                android:onClick="setAxis"
+                android:background="@drawable/apptheme_btn_default_holo_light"/>
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/speed"
+                android:text="Speed"
+                android:onClick="setAxis"
+                android:background="@drawable/apptheme_btn_default_holo_light"/>
+    </LinearLayout>
+</LinearLayout>
+
+
+
+

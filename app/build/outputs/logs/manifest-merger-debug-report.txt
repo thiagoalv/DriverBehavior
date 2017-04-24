@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:8:5-31:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/thiagosalvadori/.android/build-cache/20e67a84b685fc6b8c2baf133837ed4a5504ecfd/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/thiagosalvadori/.android/build-cache/9e7da1ccac4dfd5e60e0e5b1a6ae67cf49d25317/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/thiagosalvadori/.android/build-cache/48ce14087e6cb0f4f3870777984a3853c2176dfb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/thiagosalvadori/.android/build-cache/2c1ae27fbe488b7ecefb78eba0b24dbc21cace22/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/thiagosalvadori/.android/build-cache/d72bc70771a33f4c00d587a81569da49a233ccd3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/thiagosalvadori/.android/build-cache/e3359f0ab466fa95cbae05a63248c1359bf57ac8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/thiagosalvadori/.android/build-cache/feead1e55a546c33914880f3d418a75635436817/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/thiagosalvadori/.android/build-cache/74fb6ec959a045011d44a6d55f84a89077e2110a/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:9:9-39
+	android:theme
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:11:9-40
+activity#thiagosalvadori.driverbehavior.MainActivity
+ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:15:13-49
+	android:label
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:19:27-74
+activity#thiagosalvadori.driverbehavior.HistoryActivity
+ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:22:9-24:62
+	android:label
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:24:13-59
+	android:name
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:23:13-44
+activity#thiagosalvadori.driverbehavior.ManeuverChartActivity
+ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:25:9-27:69
+	android:label
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:27:13-66
+	android:name
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:26:13-50
+activity#thiagosalvadori.driverbehavior.SettingsActivity
+ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:28:9-30:63
+	android:label
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:30:13-60
+	android:name
+		ADDED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml:29:13-45
+uses-sdk
+INJECTED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/thiagosalvadori/.android/build-cache/20e67a84b685fc6b8c2baf133837ed4a5504ecfd/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/thiagosalvadori/.android/build-cache/9e7da1ccac4dfd5e60e0e5b1a6ae67cf49d25317/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/thiagosalvadori/.android/build-cache/48ce14087e6cb0f4f3870777984a3853c2176dfb/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/thiagosalvadori/.android/build-cache/2c1ae27fbe488b7ecefb78eba0b24dbc21cace22/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/thiagosalvadori/.android/build-cache/d72bc70771a33f4c00d587a81569da49a233ccd3/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/thiagosalvadori/.android/build-cache/e3359f0ab466fa95cbae05a63248c1359bf57ac8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/thiagosalvadori/.android/build-cache/feead1e55a546c33914880f3d418a75635436817/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/thiagosalvadori/.android/build-cache/74fb6ec959a045011d44a6d55f84a89077e2110a/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thiagosalvadori/Downloads/DriverBehavior-v.1.2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/thiagosalvadori/.android/build-cache/20e67a84b685fc6b8c2baf133837ed4a5504ecfd/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/thiagosalvadori/.android/build-cache/9e7da1ccac4dfd5e60e0e5b1a6ae67cf49d25317/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/thiagosalvadori/.android/build-cache/48ce14087e6cb0f4f3870777984a3853c2176dfb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/thiagosalvadori/.android/build-cache/2c1ae27fbe488b7ecefb78eba0b24dbc21cace22/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/thiagosalvadori/.android/build-cache/d72bc70771a33f4c00d587a81569da49a233ccd3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/thiagosalvadori/.android/build-cache/e3359f0ab466fa95cbae05a63248c1359bf57ac8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/thiagosalvadori/.android/build-cache/feead1e55a546c33914880f3d418a75635436817/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/thiagosalvadori/.android/build-cache/74fb6ec959a045011d44a6d55f84a89077e2110a/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/thiagosalvadori/.android/build-cache/46cd2f025c1be08adf5fa6b7606f22c0af0da3e1/output/AndroidManifest.xml:26:9-47
